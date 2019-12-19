@@ -26,6 +26,9 @@ function App() {
         </a>
         !
       </h2>
+      <h1>
+        The Big Egg: A Story.
+      </h1>
       <p>
         <a
           href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
